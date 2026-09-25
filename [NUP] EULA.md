@@ -45,9 +45,9 @@ To request permission for any use beyond personal entertainment, you must contac
 - email: microsoftabdou63@gmail.com
 - Discord: https://discord.com/invite/eSMJgPagfU
 - Moddb Profile: https://www.moddb.com/members/cupocha
-- ModDB Forum: https://www.moddb.com/mods/agup-air-ground-units-pack-arma-2/forum
+- ModDB Forum: 
 - TikTok: https://www.tiktok.com/@cupocha
-- Official Website: https://aguofficialwebsite.netlify.app/
+- Official Website: 
 - YouTube: https://www.youtube.com/@abdou.W22
 
 No permission is granted until explicitly confirmed in writing by the author.
@@ -64,7 +64,7 @@ This means:
 - If a modified version of NUP is distributed without permission, both users and the author can verify the tampering.
 - Verified tampering combined with unauthorized redistribution may be grounds for legal action.
 
-Hash database: https://raw.githubusercontent.com/cupocha/Official-AGUP-ArmA-2-Addon-Repository/refs/heads/main/%5BAGUP%5D%20File%20Hashes.json
+Hash database: https://raw.githubusercontent.com/cupocha/Official-NUP-ArmA-2-Addon-Repository/refs/heads/main/%5BNUP%5D%20File%20Hashes.json
 
 ---
 
